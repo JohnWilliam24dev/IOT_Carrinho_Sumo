@@ -155,18 +155,8 @@ void loop() {
 
 ---
 
-## 9. Sugestões de Melhoria
 
-* **Debounce ou Filtros**: implementar alguma forma de evitar leituras duplicadas ou ruído de conexão.
-* **Validação de Conexão**: verificar `SerialBT.connected()` antes de ler comandos.
-* **Velocidade Variável**: usar PWM (`ledcWrite`) em vez de `digitalWrite` para controlar velocidade dos motores.
-* **Timeout de Parada**: se não receber comando em X ms, parar automaticamente.
-* **Feedback ao Usuário**: enviar de volta ao app status atual (p.ex. bateria, sensores).
-* **Protocolos Mais Complexos**: usar pacotes com checksum para maior robustez.
-
----
-
-## 10. Exemplo de Uso
+## 9. Exemplo de Uso
 
 1. Carregue o sketch no ESP32 através da IDE Arduino.
 2. Abra o Monitor Serial (9600 bps) para acompanhar mensagens de debug.
