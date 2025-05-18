@@ -163,3 +163,11 @@ void loop() {
 3. No smartphone, conecte-se ao dispositivo Bluetooth “Carrinho”.
 4. Utilize um app de terminal Bluetooth (e.g. “Serial Bluetooth Terminal”) e envie ‘1’ para avançar, ‘2’ para recuar, ‘3’/‘4’ para giros.
 
+---
+
+## 10. Apresentação funcional do projeto
+
+Assista os vídeos da apresentação do projeto nos links abaixo:
+
+Vídeo 1: https://drive.google.com/file/d/1GPjUJ4vA9_8mbz9vWHpoB2q2wR_8-lnt/view?usp=sharing
+Vídeo 2: https://drive.google.com/file/d/1GRIuHflsgzejMOgWUCcZd3NR7P_xBz8I/view?usp=sharing
